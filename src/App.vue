@@ -18,7 +18,7 @@ function initializeAdobeViewer() {
 
   // Adobe Viewer instance
   const adobeDCView = new AdobeDC.View({
-    clientId: "19b7ad44a73848ce9530e96cb74f3777", // Replace with your actual API Key
+    clientId: "2bf275678c154f69aedf46f946c20170", // Replace with your actual API Key
     divId: "pdf-div",
   });
 
