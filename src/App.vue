@@ -27,7 +27,7 @@ function initializeAdobeViewer() {
     {
       content: {
         location: {
-          url: "/24DCE091.pdf", // Ensure this path is correct relative to your `public` folder
+          url: "/public/24DCE091.pdf", // Ensure this path is correct relative to your `public` folder
         },
       },
       metaData: {
